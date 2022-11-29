@@ -36,4 +36,6 @@ bool schedule(
     DailySchedule& sched
 );
 
+void print(const DailySchedule& sched);
+
 #endif
